@@ -1,0 +1,8 @@
+{
+    "name": "Redowan's BDIX repository",
+    "description": "Redowan's BDIX repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/plugins.json"
+    ]
+}
